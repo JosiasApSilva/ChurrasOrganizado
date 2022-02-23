@@ -7,3 +7,11 @@ Projeto Voltado par auma organização previa de um churrasco
 
 // crianças valem por 0,5
 
+Atualização: O projeto foi desenvolvido a partir do curso Programador Br 
+
+Ainda pode ser refinado e adicionado novas funcionalidades 
+
+
+
+
+
